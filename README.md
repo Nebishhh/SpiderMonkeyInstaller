@@ -51,14 +51,23 @@ unzipper npm package (Extraction)
 
 📦 Project Structure
 pgsql
+
 Copy
+
 Edit
+
 spidermonkey-installer/
+
 ├── src/
+
 │   └── extension.ts    # Main extension code
+
 ├── package.json         # Extension configuration and metadata
+
 ├── tsconfig.json        # TypeScript configuration
+
 └── README.md            # Project documentation
+
 ⚡ Installation Instructions (For Developers)
 
 To clone and run locally:
