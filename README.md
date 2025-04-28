@@ -90,4 +90,4 @@ Ensure you restart your terminal/VS Code after installation to refresh environme
 The SpiderMonkey download link may need updates when new versions are released.
 
 🎯 Final Message
-This extension empowers developers to integrate SpiderMonkey into their workflow quickly and effortlessly — making JavaScript engine experimentation accessible for all.
+This extension empowers developers to integrate SpiderMonkey into their workflow quickly and effortlessly — making JavaScript engine experimentation accessible for all.# SpiderMonkeyInstaller
