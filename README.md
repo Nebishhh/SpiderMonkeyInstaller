@@ -1,5 +1,6 @@
 📄 SpiderMonkey Installer for VS Code
 🛠 Project Overview
+
 The SpiderMonkey Installer for VS Code is a Visual Studio Code extension that simplifies the downloading, installing, and configuring of the SpiderMonkey JavaScript engine on Windows.
 This tool eliminates manual setup steps by automating:
 
@@ -12,6 +13,7 @@ Setting environment variables (JS_HOME, PATH)
 It’s designed to make SpiderMonkey setup fast, easy, and reliable for developers.
 
 ✨ Features
+
 ✅ One-click download and installation of SpiderMonkey
 
 ✅ Automatic extraction to a predefined directory
@@ -23,6 +25,7 @@ It’s designed to make SpiderMonkey setup fast, easy, and reliable for develope
 ✅ Simple, user-friendly installation messages
 
 🧪 How It Works
+
 Open Command Palette (Ctrl + Shift + P).
 
 Search for Install SpiderMonkey.
@@ -57,6 +60,7 @@ spidermonkey-installer/
 ├── tsconfig.json        # TypeScript configuration
 └── README.md            # Project documentation
 ⚡ Installation Instructions (For Developers)
+
 To clone and run locally:
 
 bash
@@ -69,6 +73,7 @@ npm run compile
 Then press F5 in VS Code to launch the Extension Development Host.
 
 🚀 Future Improvements
+
 Allow users to select SpiderMonkey versions.
 
 Add installation verification (sm --version check).
@@ -76,13 +81,15 @@ Add installation verification (sm --version check).
 Publish on the VS Code Marketplace.
 
 👥 Team Members
-Hanan Mustofa
 
-Nebiyou Dessalegn
+-Hanan Mustofa
 
-Tewobsta Desta
+-Nebiyou Dessalegn
+
+-Tewobsta Desta
 
 📣 Notes
+
 Tested on Windows 10/11 environments.
 
 Ensure you restart your terminal/VS Code after installation to refresh environment variables.
